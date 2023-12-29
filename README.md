@@ -1,6 +1,5 @@
 ### Olá! Eu sou o Pedro Igor!
 
-- 🔭 Atualmente sou estagiário em desenvolvimento.
 - 🌱 Estudando Web Dev e Game Dev.
 - 😄 Pronomes: Ele/Dele.
 
